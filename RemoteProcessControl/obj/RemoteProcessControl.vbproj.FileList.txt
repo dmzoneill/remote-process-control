@@ -1,0 +1,10 @@
+bin\Debug\RemoteProcessControl.exe
+bin\Debug\RemoteProcessControl.pdb
+bin\Debug\RemoteProcessControl.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RemoteProcessControl.Form1.resources
+obj\Debug\RemoteProcessControl.Resources.resources
+obj\Debug\RemoteProcessControl.vbproj.GenerateResource.Cache
+obj\Debug\RemoteProcessControl.exe
+obj\Debug\RemoteProcessControl.xml
+obj\Debug\RemoteProcessControl.pdb
