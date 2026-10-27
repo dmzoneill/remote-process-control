@@ -1,5 +1,9 @@
 # Remote Process Control
 
+<p align="center">
+  <img src=".github/logo.png" alt="remote-process-control logo" width="128" />
+</p>
+
 A VB.NET Windows Forms tool for viewing and stopping processes on other
 computers in a Windows workgroup.
 
